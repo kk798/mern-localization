@@ -1,0 +1,16 @@
+{
+    "hello-world": "Hello World",
+    "react-title": "Web Development",
+    "home": "Home",
+    "create": "Add",
+    "index": "List",
+    "add-new-business": "Add New Business",
+    "person-name": "Person Name",
+    "business-name": "Business Name",
+    "gst-num": "GST Number",
+    "register-business": "Register Business",
+    "business-list": "Business List",
+    "person": "Person",
+    "business": "Business",
+    "action": "Action"
+}

@@ -1,0 +1,16 @@
+{
+    "hello-world": "Bonjour! Comment ça va?",
+    "react-title": "Exemple React CRUD",
+    "home": "Accueil",
+    "create": "Créer",
+    "index": "Indice",
+    "add-new-business": "Ajouter une nouvelle entreprise",
+    "person-name": "Nom d'une personne",
+    "business-name": "Nom de l'entreprise",
+    "gst-num": "Numéro de TPS",
+    "register-business": "Enregistrer une entreprise",
+    "business-list": "Liste d'entreprises",
+    "person": "La personne",
+    "business": "Entreprise",
+    "action": "action"
+}

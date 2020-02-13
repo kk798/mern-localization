@@ -1,0 +1,16 @@
+{
+    "hello-world": "Hallo Welt",
+    "react-title": "Web Entwicklung",
+    "home": "Zuhause",
+    "create": "Hinzufügen",
+    "index": "Aufführen",
+    "add-new-business": "Neues Geschäft hinzufügen",
+    "person-name": "Name der Person",
+    "business-name": "Firmenname",
+    "gst-num": "GST-Nummer",
+    "register-business": "Geschäft registrieren",
+    "business-list": "Geschäftsliste",
+    "person": "Person",
+    "business": "Geschäft",
+    "action": "Aktion"
+}
